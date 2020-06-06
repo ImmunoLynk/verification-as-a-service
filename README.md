@@ -1,5 +1,5 @@
 # ImmunoLynk: Verification-as-a-Service
-
+ 
 Immunity test recognition, verification and distribution service compatible with SingularityNET.
 
 ## How it works
