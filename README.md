@@ -1,6 +1,6 @@
-# example-service
+# ImmunoLynk: Verification-as-a-Service
 
-Simple arithmetic service compatible with SingularityNET
+Immunity test recognition, verification and distribution service compatible with SingularityNET.
 
 ## Getting Started
 
@@ -25,20 +25,6 @@ sh buildproto.sh
 ```
 
 ### Running
-
-#### Standalone
-
-* Run the example service directly (without `SNET Daemon`):
-
-```
-python3 run_example_service.py --no-daemon
-```
-
-* To test it run the script:
-
-```
-python3 test_example_service.py
-```
 
 #### With SingularityNET Daemon
 
@@ -78,15 +64,6 @@ For example, using the Ropsten testnet, replace tags with:
 - `__SERVICE_ID__`: my-service
 
 See [SingularityNet daemon configuration](https://github.com/singnet/snet-daemon/blob/master/README.md#configuration) for detailed configuration description.
-
-##### Running Service + Daemon on Host
-
-* Run the script without flag to launch both `SNET Daemon` and the service. But first,
-download the latest `SNET Daemon` [release here](https://github.com/singnet/snet-daemon/releases).
-
-```
-python3 run_example_service.py
-```
 
 ##### Running Service + Daemon in a Docker Container
 
@@ -131,14 +108,6 @@ After this, run the service (with `SNET Daemon`), make sure you have the `snetd.
    }
 }
 # python3 run_example_service.py --daemon-config snetd.config.json &
-```
-
-### Testing
-
-* Invoke the test script (from the same Docker Container):
-
-```
-# python3 test_example_service.py
 ```
 
 ## License
