@@ -1,7 +1,7 @@
 # ImmunoLynk: Verification-as-a-Service
  
 Immunity test recognition, verification and distribution service compatible with SingularityNET.
-
+ 
 ## How it works
 
 Users/developers can leverage our computer vision model to verify pictures of laminar flow immunity tests for COVID-19 (see result_recognition/data for examples).
