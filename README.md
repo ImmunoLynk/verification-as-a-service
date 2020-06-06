@@ -10,6 +10,7 @@ In addition to that, users can opt to store the result in our public (free) IPFS
 
 Alternatively, users can opt into the premium service of hosting a private IPFS node so they can futurely commercialize their data through Ocean Protocol.
 
+We still recommend using our app since it also has the immunity questionaire, which can also be commercialized through Ocean. I also complements the test image pretty nicely, since we can approximate an Immunity Score to assist partial result recommendation.
 
 ## Getting Started
 
