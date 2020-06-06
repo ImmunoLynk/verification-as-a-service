@@ -8,12 +8,16 @@ Users/developers can leverage our computer vision model to verify pictures of la
 
 In addition to that, users can opt to store the result in our public (free) IPFS node, donating their annonymized data to better help health officials/researchers/innovators on data-driven solutions for the pandemic crisis.
 
+Alternatively, users can opt into the premium service of hosting a private IPFS node so they can futurely commercialize their data through Ocean Protocol.
+
 
 ## Getting Started
 
 ### Prerequisites
 
 * [Python 3.6.5](https://www.python.org/downloads/release/python-365/)
+* Tensorflow 
+* Keras
 
 ### Installing
 
