@@ -6,7 +6,7 @@ Immunity test recognition, verification and distribution service compatible with
 
 Users/developers can leverage our computer vision model to verify pictures of laminar flow immunity tests for COVID-19 (see result_recognition/data for examples).
 
-In addition to that, users can opt to store the result in our public (free) IPFS node, donating their annonymized data to better help health officials/researchers/innovators on data-driven solutions for the pandemic crisis.
+In addition to that, users can opt to store the result in our public (free) IPFS node, donating their anonymized data to better help health officials/researchers/innovators on data-driven solutions for the pandemic crisis.
 
 Alternatively, users can opt into the premium service of hosting a private IPFS node so they can futurely commercialize their data through Ocean Protocol.
 
